@@ -22,6 +22,9 @@ Main function to implement huffman coding.
 Main function to implement huffman coding.
  
 ## Program:
+## Developed by:Amurtha vaahini.KN 
+## Register number:212222240008
+
 
 ``` Python
 # Get the input String
