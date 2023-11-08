@@ -76,9 +76,6 @@ print(' Char | Huffman code ')
 print('----------------------')
 for (char, frequency) in freq:
     print(' %-4r |%12s' % (char, huffmanCode[char]))
-
-
-`
 ```
 ## Output:
 ![image](https://github.com/amurthavaahininagarajan/HUFFMAN-CODING-/assets/118679102/782428b8-5797-4906-93d9-33e1dd44785e)
