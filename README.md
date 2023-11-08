@@ -28,7 +28,7 @@ Main function to implement huffman coding.
 
 ``` Python
 # Get the input String
-string = 'This is Thiru'
+string = 'This is Amurtha'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
